@@ -1,0 +1,22 @@
+##Threat intelligence 
+#Live Cyber threat map
+https://threatmap.checkpoint.com/
+
+# Network protocol analyzer
+wireshark
+
+#Intentionally vulnerable Ubuntu Linux virtual machine that is designed for testing common vulnerabilities
+metasploitable2
+
+#Application security testing tool 
+OWASP Zed Attack Proxy (zapproxy.org)
+
+#Comprehensive, CVE-compliant public archive of exploits and proof-of-concept (PoC) code for software vulnerabilities
+https://www.exploit-db.com/google-hacking-database
+
+#Common Vulnerability Enumerator
+https://cve.mitre.org/
+
+#Tool to explore Dark web
+Tor browser
+
